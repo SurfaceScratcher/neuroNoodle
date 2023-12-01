@@ -1,2 +1,18 @@
 # neuroNoodle
 An opensource platform, by and for neurodiverse people. 
+
+## The Idea
+
+An opensource platform that meets the needs of us neurodiverse people - because it comes from us. 
+
+Of course, there are already lots of apps that focus on different aspects, but most of them are fee-based, limited to apple or android or cannot be combined with other tools. The idea is to solve this problem with a platform where we can fulfill our needs together through extensions. 
+
+* free and opensource
+* platform independent
+* expandable through plugins
+* selfhosting or cloud-based 
+* community driven
+
+## How far have we come so far? 
+
+At the moment there is just the idea and i am looking for interested, neurodiverse people who wants contribute. 
