@@ -1,7 +1,7 @@
 # neuroNoodles
 An opensource platform, by and for neurodivergent people. 
 
-##Join the community : 
+## Join the community : 
 [Join discord server] (https://discord.com/invite/a34GqmEqWH) 
 
 ## The Idea
