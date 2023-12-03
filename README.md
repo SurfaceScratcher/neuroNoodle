@@ -1,4 +1,4 @@
-# neuroNoodle
+# neuroNoodles
 An opensource platform, by and for neurodivergent people. 
 
 ## The Idea
